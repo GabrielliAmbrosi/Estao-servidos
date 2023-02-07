@@ -1,0 +1,21 @@
+{
+"quartos":[
+    {"numero": 111, "clienteId": 1, "id": 1, "andar": 1},
+    {"numero": 222, "clienteId": 2, "id": 2, "andar": 2},
+    {"numero": 333, "clienteId": 3, "id": 3, "andar": 3},
+    {"numero": 444, "clienteId": 4, "id": 4, "andar": 4}
+],
+"funcionarios": [
+    {"nome": "Kay", "cargo": "gerente", "id": 1010, "salario": 10000},
+    {"nome": "Felipe", "cargo": "recepção", "id": 2020, "salario": 20000},
+    {"nome": "Maria", "cargo": "segurança", "id": 3030, "salario": 5000},
+    {"nome": "Arley", "cargo": "limpeza", "id": 4040, "salario": 10000}
+],
+"clientes": [
+    {"nome": "Khalid", "cpf": "111.111.111-11", "id": 100, "telefone": "99999-9999"},
+    {"nome": "Ayo", "cpf": "111.111.111-22", "id": 200, "telefone": "99999-9988"},
+    {"nome": "Aoi", "cpf": "111.111.111-33", "id": 300, "telefone": "99999-9977"},
+    {"nome": "Gabrielli", "cpf": "111.111.111-44", "id": 400, "telefone": "99999-9966"}
+]
+ }
+ 
